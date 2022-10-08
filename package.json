@@ -1,0 +1,29 @@
+{
+  "name": "console-to-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "run": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crmapache/console-to-do.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crmapache/console-to-do/issues"
+  },
+  "homepage": "https://github.com/crmapache/console-to-do#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^9.1.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "type": "module"
+}
